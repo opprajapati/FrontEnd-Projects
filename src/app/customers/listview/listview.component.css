@@ -1,0 +1,17 @@
+.tableview{
+    margin-left: 100px;
+    margin-top: 20px;
+    border: 2px solid rgb(219, 23, 23);
+    margin-right: 220px;
+    border-radius: 6px;
+}
+.editbtn{
+    height: 35px;
+    width: 50px;
+    margin-right: 10px;
+}
+.deletebtn{
+    height: 35px;
+    width: 65px;
+    margin-right: 10px;
+}

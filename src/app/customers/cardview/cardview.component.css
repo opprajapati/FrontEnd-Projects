@@ -1,0 +1,18 @@
+.card_view{
+    display: grid;
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-right: 150px;
+}
+.container{
+  display:inline-grid;
+
+}
+.col{
+  width: 60px;
+  height: 120px;
+  border: 1px;
+  background-color: rgb(130, 194, 229);
+  margin: 10px;
+  border-radius: 5px;
+}

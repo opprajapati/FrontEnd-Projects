@@ -1,0 +1,24 @@
+.newcustform{
+    width: 550px;
+    height: 550px;
+    background-color: rgb(225, 204, 204);
+    margin-left: 450px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.newcustform h4 {
+    text-align: center;
+}
+.newcustform button{
+    margin-left: 200px;
+}
+.newcustform .form-control{
+    width: 320px;
+    margin-left: 90px;
+}
+.newcustform .form-label{
+    margin-left: 90px;
+}
+.newcustform .form-check-label{
+    margin-left: 8px;
+}

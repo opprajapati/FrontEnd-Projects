@@ -1,0 +1,33 @@
+<div class="newcustform">
+    <form [formGroup]="newcustform" (ngSubmit)="submitNewCustomer()">
+        <h4>New Customer</h4>
+        <div class="mb-3">
+            <label for="exampleInputEmail1" class="form-label">Customer ID</label>
+            <input type="number" size="60px" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
+                formControlName="customerId">
+        </div>
+        <div class="mb-3">
+            <label for="exampleInputEmail1" class="form-label">Customer Name</label>
+            <input type="text" size="60px" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
+                formControlName="customerName">
+
+        </div>
+        <div class="mb-3">
+            <label for="exampleInputEmail1" class="form-label">Customer Email</label>
+            <input type="email" size="80px" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
+                formControlName="customerEmail">
+
+        </div>
+        <div class="mb-3">
+            <label for="exampleInputEmail1" class="form-label">Customer Mobile</label>
+            <input type="number" size="60px" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
+                formControlName="customerMobile">
+
+        </div>
+        <div class="mb-3">
+            <label for="exampleInputPassword1" class="form-label">Pin Code</label>
+            <input type="number" class="form-control" id="exampleInputPassword1" formControlName="customerPin">
+        </div>
+        <button type="submit" class="btn btn-primary">ADD</button>
+    </form>
+</div>

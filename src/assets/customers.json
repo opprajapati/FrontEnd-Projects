@@ -1,0 +1,207 @@
+[
+    {
+        "id": 1,
+        "name": "Luca",
+        "email": "luca@gmail.com",
+        "gender": "male",
+        "img": "src/assets/profile.jpg",
+        "price": 50,
+        "productname": "Tshirt"
+    },
+    {
+        "id": 2,
+        "name": "Lilly",
+        "email": "lilly@gmail.com",
+        "gender": "female",
+        "img": "src/assets/profile.jpg",
+        "price": 70,
+        "productname": "Tshirt"
+    },
+    {
+        "id": 3,
+        "name": "Anna",
+        "email": "anna@gmail.com",
+        "gender": "female",
+        "img": "src/assets/profile.jpg",
+        "price": 90,
+        "productname": "Tshirt"
+    },
+    {
+        "id": 4,
+        "name": "John",
+        "email": "john@gmail.com",
+        "gender": "male",
+        "img": "src/assets/profile.jpg",
+        "price": 150,
+        "productname": "Tshirt"
+    },
+    {
+        "id": 5,
+        "name": "Mary",
+        "email": "mary@gmail.com",
+        "gender": "female",
+        "img": "src/assets/profile.jpg",
+        "price": 250,
+        "productname": "Tshirt"
+    },
+    {
+        "id": 6,
+        "name": "Akhil",
+        "email": "akhil@gmail.com",
+        "gender": "male",
+        "img": "src/assets/profile.jpg",
+        "price": 60,
+        "productname": "Tshirt"
+    },
+    {
+        "id": 7,
+        "name": "Ayushman",
+        "email": "ayush@gmail.com",
+        "gender": "male",
+        "img": "src/assets/profile.jpg",
+        "price": 10,
+        "productname": "Tshirt"
+    },
+    {
+        "id": 8,
+        "name": "katrina",
+        "email": "katrina@gmail.com",
+        "gender": "female",
+        "img": "src/assets/profile.jpg",
+        "price": 90,
+        "productname": "Tshirt"
+    },
+    {
+        "id": 9,
+        "name": "Kangna",
+        "email": "kangna@gmail.com",
+        "gender": "female",
+        "img": "src/assets/profile.jpg",
+        "price": 130,
+        "productname": "Tshirt"
+    },
+    {
+        "id": 10,
+        "name": "Sunny",
+        "email": "sunny@gmail.com",
+        "gender": "male",
+        "img": "src/assets/profile.jpg",
+        "price": 220,
+        "productname": "Tshirt"
+    },
+    {
+        "id": 11,
+        "name": "Mahesh Babu",
+        "email": "mahesh@gmail.com",
+        "gender": "male",
+        "img": "src/assets/profile.jpg",
+        "price": 30,
+        "productname": "Tshirt"
+    },
+    {
+        "id": 12,
+        "name": "Ramcharan",
+        "email": "ram@gmail.com",
+        "gender": "male",
+        "img": "src/assets/profile.jpg",
+        "price": 50
+    },
+    {
+        "id": 13,
+        "name": "Prabhas",
+        "email": "anna@gmail.com",
+        "gender": "male",
+        "img": "src/assets/profile.jpg",
+        "price": 90,
+        "productname": "Tshirt"
+    },
+    {
+        "id": 14,
+        "name": "Aishwarya",
+        "email": "aish@gmail.com",
+        "gender": "female",
+        "img": "src/assets/profile.jpg",
+        "price": 110,
+        "productname": "Tshirt"
+    },
+    {
+        "id": 15,
+        "name": "Kareena",
+        "email": "kareena@gmail.com",
+        "gender": "female",
+        "img": "src/assets/profile.jpg",
+        "price": 25,
+        "productname": "Tshirt"
+    },
+    {
+        "id": 16,
+        "name": "Rajkumar",
+        "email": "rajkumar@gmail.com",
+        "gender": "male",
+        "img": "src/assets/profile.jpg",
+        "price": 350,
+        "productname": "Tshirt"
+    },
+    {
+        "id": 17,
+        "name": "VijayPrakash",
+        "email": "vijay@gmail.com",
+        "gender": "male",
+        "img": "src/assets/profile.jpg",
+        "price": 55,
+        "productname": "Tshirt"
+    },
+    {
+        "id": 18,
+        "name": "Priyanka Chopra",
+        "email": "priyanka@gmail.com",
+        "gender": "female",
+        "img": "src/assets/profile.jpg",
+        "price": 66,
+        "productname": "Tshirt"
+    },
+    {
+        "id": 19,
+        "name": "Kajal Agrawal",
+        "email": "kajal@gmail.com",
+        "gender": "female",
+        "img": "src/assets/profile.jpg",
+        "price": 70,
+        "productname": "Tshirt"
+    },
+    {
+        "id": 20,
+        "name": "Kashmira Pardeshi",
+        "email": "kashmira@gmail.com",
+        "gender": "female",
+        "img": "src/assets/profile.jpg",
+        "price": 76,
+        "productname": "Tshirt"
+    },
+    {
+        "id": 21,
+        "name": "Meera Pardeshi",
+        "email": "mary@gmail.com",
+        "gender": "female",
+        "img": "src/assets/profile.jpg",
+        "price": 87,
+        "productname": "Tshirt"
+    },
+    {
+        "id": 22,
+        "name": "Reema Pardeshi",
+        "email": "reema@gmail.com",
+        "gender": "female",
+        "img": "src/assets/profile.jpg",
+        "price": 65,
+        "productname": "Tshirt"
+    },
+    {
+        "id": 23,
+        "name": "Sonam BDSK",
+        "email": "sanam@gmail.com",
+        "gender": "female",
+        "img": "src/assets/profile.jpg",
+        "price": 34
+    }
+]

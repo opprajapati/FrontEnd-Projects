@@ -1,0 +1,24 @@
+.lgform{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(252, 203, 203);
+    margin-left: 450px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.lgform h4 {
+    text-align: center;
+}
+.lgform button{
+    margin-left: 170px;
+}
+.lgform .form-control{
+    width: 320px;
+    margin-left: 5px;
+}
+.lgform .form-label{
+    margin-left: 5px;
+}
+.lgform .form-check-label{
+    margin-left: 8px;
+}
